@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="703px" height="944px" viewBox="0 0 703 944" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Shield</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Shield">
+            <g id="np_shape_1035900_000000" transform="translate(-26.000000, 0.000000)" fill-rule="nonzero" fill="#000000">
+                <polygon id="Shape" points="377.5 115.563556 0 0 0 648.206489 377.5 892 755 648.206489 755 0"></polygon>
+            </g>
+            <g id="SLJJ-BW" transform="translate(52.000000, 172.000000)" fill="#FFFFFF">
+                <g id="SLJJ" transform="translate(204.000000, 146.000000)" font-size="160" font-family="PTMono-Bold, PT Mono" font-weight="bold">
+                    <text id="SL">
+                        <tspan x="0" y="142">SL</tspan>
+                    </text>
+                    <text id="JJ">
+                        <tspan x="0" y="271">JJ</tspan>
+                    </text>
+                </g>
+                <g id="np_hexagon_919802_000000" transform="translate(44.000000, 7.000000)">
+                    <path d="M255.731951,587 C253.56347,587 251.419377,586.439654 249.470264,585.318975 L6.21315865,444.577652 C2.3635214,442.336244 -0.0242030262,438.219158 0.00018505793,433.78474 L0.268198252,152.757387 C0.268198252,148.299019 2.65592268,144.181684 6.52988564,141.964474 L250.030248,1.65973304 C253.879885,-0.557288943 258.630946,-0.557288943 262.504972,1.68410051 L505.787026,142.425423 C509.636664,144.666831 512,148.783917 512,153.242659 L511.731987,434.270013 C511.731987,438.72838 509.344262,442.845716 505.470299,445.062925 L261.969937,585.342719 C260.045149,586.439037 257.901056,586.999358 255.732575,586.999358 L255.731951,587 Z M24.9495694,426.618758 L255.756901,560.150253 L486.80749,427.030392 L487.05114,160.403983 L256.268758,26.8724876 L25.1932195,159.967401 L24.9495694,426.618758 Z" id="Shape" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
